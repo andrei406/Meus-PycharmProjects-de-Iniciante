@@ -1,0 +1,6 @@
+print('Tabela do CBF, serie A 2020' )
+t = ('Internacioanl', 'São Paulo', 'Atlético-MG', 'Vasco', 'Flamengo', 'Palmeiras', 'Santos', 'Fluminense', 'Sport', 'Ceará', 'Corinthians', 'Bahia', 'Fortalesa', 'Grêmio', 'Botafogo', 'Atético-PR', 'Coritiba', 'Atlético-GO', 'Bragantino', 'Goiás')
+print(f'Os cinco primeiros colcocados foram: {t[0:5]}')
+print(f'Os últimos quatro colocados na tabela: {t[16:20]}')
+print(f'Em ordem alfabetica: {sorted(t)}')
+print('Chapeonse não está aqui')

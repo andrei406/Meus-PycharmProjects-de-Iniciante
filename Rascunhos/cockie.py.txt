@@ -1,0 +1,4 @@
+x = input('Digite seu nome:')
+y = input('Coloque sua idade:')
+z = input('Agora a sua altura (em metros):')
+print('Aqui estão os seus dados:', 'seu nome é: ', (x), ',',  'você tem:', (y) , 'anos de idade' , 'e', 'mede:', (z), 'metros')

@@ -1,0 +1,14 @@
+Os 4 tipos primitivos
+int números inteiros
+float reis
+bool  valores lógicos e boleanos
+str valores caractéres ou stens
+ex
+int 7 -4 0 9875
+float 4.5 0.076 -15.233 7.0
+bool  true (T) false (F)
+str 'Olá' '7.5' ''
+n.isascii é 01
+formas de print
+print('reultado',s)
+print('reultado {}'.format{s})

@@ -1,0 +1,14 @@
+Porta das Almas -- A estrutura de códigos
+
+1. Criar uma biblioteca para colocar as funções que vai utilizar durante o jogo inteiro
+    Nela va conter:
+        Codigos de cores com signifacados para cada cor e estilo de formatação
+        Modelos prontos de dialogo
+        Estrutura de multiplas escolhas
+    Depois transforme tudo em uma classe
+
+2. Criar um modelo de menu que será utilizado durante todo o jogo
+3. Criar os objetos iniciais
+
+dez 27 20
+Correção de erros no Parte 2
