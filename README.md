@@ -1,2 +1,2 @@
 # Primeiros-Projetos
- Meus primeiros projetos descontinuados, feitos quando eu estava aprendendo a programar em Python
+ Meus primeiros projetos, feitos quando eu estava aprendendo a programar em Python
